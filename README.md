@@ -1,5 +1,5 @@
 # 오브젝트 스터디
-- [책 정보] http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391409
+- [책 정보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391409)
 
 ## 진행방식
 - 매주 두챕터씩 읽는다.
